@@ -1,7 +1,7 @@
 {
     "name": "yakiniku-server",
-    "scripts": {
-      "build": "babel src -d lib",
-      "test": "jest"
-    }
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {}
   }
+  
